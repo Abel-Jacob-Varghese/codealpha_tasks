@@ -10,9 +10,9 @@ The completed tasks are **Task 2, Task 3, and Task 4**.
 ```
 codealpha_tasks/
 │
-├── Task2_UnemploymentAnalysis/
-├── Task3_CarPricePrediction/
-├── Task4_SalesPrediction/
+├── CodeAlpha_UnemploymentAnalysis/
+├── CodeAlpha_CarPricePrediction/
+├── CodeAlpha_SalesPrediction/
 └── README.md
 ```
 
